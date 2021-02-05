@@ -31,7 +31,7 @@ export default {
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "Kamran.davar.kd@gmail.com",
 
   // End Header Details -----------------------
 
