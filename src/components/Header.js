@@ -1,5 +1,6 @@
 import React from "react"
-import Fade from "react-reveal/Fade"
+import Fade from "
+/Fade"
 import data from "../yourdata"
 
 const Header = () => {
@@ -9,10 +10,7 @@ const Header = () => {
         <div className="header-wrapper">
           <Fade bottom>
             <h2>
-              Hi, I'm {data.name}{" "}
-              <span role="img" aria-label="Emoji">
-                👋
-              </span>
+              Hi, I'm {data.name}
             </h2>
           </Fade>
           <Fade bottom cascade>
