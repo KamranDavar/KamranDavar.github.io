@@ -39,13 +39,12 @@
     }
   }
   .image-wrapper {
-    width: 50%;
+    // width: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    width: -webkit-fill-available;
-    height: 450px;
+    height: auto;
     @include media(">=phone", "<lgphone") {
       width: 100%;
     }
@@ -54,6 +53,9 @@
     }
     @include media(">=tablet", "<desktop") {
       margin-left: 2rem;
+    }
+    img{
+      width: 100%;
     }
   }
 }
