@@ -52,9 +52,12 @@
       width: 100%;
     }
     @include media(">=tablet", "<desktop") {
+      width: 100%;
+    }
+    @include media(">=desktop") {
       margin-left: 2rem;
     }
-    img{
+    img {
       width: 100%;
     }
   }
