@@ -24,7 +24,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "If you need a interactive, responsive, and beutiful website صith the latest software engineering technologies, You are in the right place.",
+    "If you need a interactive, responsive, and beautiful website with the latest software engineering technologies, You are in the right place.",
   //Contact Email
   contactEmail: "Kamran.davar.kd@gmail.com",
 

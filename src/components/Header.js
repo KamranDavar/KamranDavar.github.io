@@ -8,29 +8,11 @@ const Header = () => {
       <div className="container">
         <div className="header-wrapper">
           <Fade bottom>
-            <h2>
-              Hi, I'm {data.name}
-            </h2>
+            <h2>Hi, I'm {data.name}</h2>
           </Fade>
           <Fade bottom cascade>
             <div className="heading-wrapper">
-              <h1>
-                {data.headerTagline[0]
-                  ? data.headerTagline[0]
-                  : "Building digital"}
-              </h1>
-              <h1>
-                {" "}
-                {data.headerTagline[1]
-                  ? data.headerTagline[1]
-                  : "products, brands"}
-              </h1>
-              <h1>
-                {" "}
-                {data.headerTagline[2]
-                  ? data.headerTagline[2]
-                  : "and experience"}
-              </h1>
+              <h1>{data.headerTagline[0]}</h1>
             </div>
           </Fade>
           <Fade bottom>
