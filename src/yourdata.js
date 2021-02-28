@@ -20,16 +20,11 @@ export default {
   name: "Kamran Davar",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
-    //Line 2 For Header
-    "products, brands,",
-    //Line 3 For Header
-    "and experience",
+    "Front-end Development",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
-
+    "If you need a interactive, responsive, and beutiful website صith the latest software engineering technologies, You are in the right place.",
   //Contact Email
   contactEmail: "Kamran.davar.kd@gmail.com",
 
