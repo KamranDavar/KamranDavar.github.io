@@ -19,6 +19,20 @@ const About = () => {
               <br></br>
               <br></br>
               {data.aboutParaThree}
+              <br></br>
+              <br></br>
+              {data.aboutParaFour}
+              <br></br>
+              <br></br>
+              to see complete detail see my{" "}
+              <a
+                target="_blank"
+                href="https://www.linkedin.com/in/kamran-davar-4a4557177/"
+              >
+                {" "}
+                linkedin page
+              </a>
+              .
             </p>
           </div>
           <div className="image-wrapper">

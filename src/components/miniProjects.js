@@ -6,22 +6,26 @@ import data from "../yourdata"
 
 const Work = () => {
   return (
-    <div className="section" id="work">
+    <div className="section" id="mini">
       <div className="container">
         <div className="work-wrapper">
           <Fade bottom>
-            <h1>Work</h1>
+            <h1>Mini Projects</h1>
+          </Fade>
+          <Fade bottom>
+            <p>Mini projects with public code base(you could not see with Iran IP).</p>
           </Fade>
 
           <div className="grid">
             <Fade bottom cascade>
-              {data.projects.map(project => (
+              {data.miniProjects.map(project => (
                 <Card
                   key={project.id}
                   heading={project.title}
                   paragraph={project.para}
                   imgUrl={project.imageSrc}
                   projectLink={project.url}
+                  disable={project.disable}
                 ></Card>
               ))}
             </Fade>
