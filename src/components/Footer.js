@@ -14,6 +14,7 @@ const Footer = () => {
           <a className="email-link" href={`mailto:${data.contactEmail}`}>
             {data.contactEmail}
           </a>
+          <p>{data.phone}</p>
           <div className="social-icons">
             {data.social.map(socialLink => (
               <a
