@@ -15,7 +15,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink, disable,github  }) => {
         <h1 className="header">{heading}</h1>
         <p className="text">{paragraph}</p>
         {disable ? (
-          <p>this project is not accessible for public now.</p>
+          <p>this project is not accessible in public now.</p>
         ) : (
           <a
             href={projectLink ? projectLink : "#"}
