@@ -26,6 +26,7 @@ const Work = () => {
                   imgUrl={project.imageSrc}
                   projectLink={project.url}
                   disable={project.disable}
+                  github={project.github}
                 ></Card>
               ))}
             </Fade>

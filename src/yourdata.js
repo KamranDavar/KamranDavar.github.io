@@ -109,6 +109,7 @@ export default {
         "https://s6.uupload.ir/files/screenshot_from_2022-02-27_17-15-22_u1b4.png",
       //Project URL - Add Your Project Url Here
       url: "https://wonderful-mirzakhani-093bd0.netlify.app/",
+      github: "https://github.com/KamranDavar/github-trending",
       disable: false,
     },
     {
@@ -121,6 +122,7 @@ export default {
         "https://s6.uupload.ir/files/screenshot_from_2022-02-27_17-14-51_0q30.png",
       //Project URL - Add Your Project Url Here
       url: "https://nostalgic-lalande-580ec9.netlify.app",
+      github: "https://github.com/KamranDavar/todo2",
       disable: false,
     },
   ],
