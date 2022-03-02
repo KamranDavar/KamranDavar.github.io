@@ -10,10 +10,13 @@ const Work = () => {
       <div className="container">
         <div className="work-wrapper">
           <Fade bottom>
-            <h1>Mini Projects</h1>
+            <h2>Open Source</h2>
           </Fade>
           <Fade bottom>
-            <p>Mini projects with public code base(you could not see with Iran IP).</p>
+            <p>
+              Mini projects with public code base(you could not see with Iran
+              IP).
+            </p>
           </Fade>
 
           <div className="grid">
