@@ -15,9 +15,6 @@ import resume from "./images/resume.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
-import instagramIcon from "./images/instagram.svg"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)

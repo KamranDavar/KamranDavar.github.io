@@ -3,6 +3,8 @@ module.exports = {
     title: `Kamran Darvar`,
     description: `This page is about open source projects and projects and the skills and background of Kamran Davar`,
     author: `Kamran Davar`,
+    url: "https://www.gatsbyjs.com/",
+    keywords: `Kamran Davar, front-end developer, resume`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
