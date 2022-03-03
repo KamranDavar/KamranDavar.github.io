@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Kamran-Darvar`,
+    title: `Kamran Darvar`,
     description: `This page is about open source projects and projects and the skills and background of Kamran Davar`,
-    author: `@gatsbyjs`,
+    author: `Kamran Davar`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
