@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Kamran Darvar`,
+    title: `Kamran Davar`,
     description: `This page is about open source projects and projects and the skills and background of Kamran Davar`,
     author: `Kamran Davar`,
-    url: "https://www.gatsbyjs.com/",
+    url: "https://kamran-davar.netlify.app",
     keywords: `Kamran Davar, front-end developer, resume`,
   },
   plugins: [
@@ -26,7 +26,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/js.svg`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sass`,
